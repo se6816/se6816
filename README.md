@@ -7,14 +7,6 @@
 <table>
   <tr>
     <td>
-      <b>FE</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td>
       <b>BE</b>
     </td>
     <td>
