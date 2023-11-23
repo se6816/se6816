@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se6816&show_icons=true&theme=radical)
+  
 ## 😾 Git Stats 😾
 <div class="git-stats" align="center">
   <a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=se6816&show_icons=true&theme=onedark&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
