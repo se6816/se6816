@@ -11,6 +11,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se6816&show_icons=true&theme=radical)
+## 😾 Git Stats 😾
+<div class="git-stats" align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se6816&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=se6816&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)
+</div>
+
+## 🏆 Solved-Ac Tier 🏆
+  <div class="solved-ac" align="center">
+    <a href="http://solved.ac/se6816"><img src="http://mazassumnida.wtf/api/generate_badge?boj=se6816" /></>
+  </div>
 </div>
