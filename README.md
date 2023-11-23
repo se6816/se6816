@@ -2,7 +2,7 @@
   <h3>포트폴리오</h3>
 
 ## 🛠 My Skill Set 🛠
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="none">
   <tr>
     <td>
       <b>BE</b>
