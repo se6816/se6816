@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      BE
+      <b>BE</b>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>
-      DB
+      <b>DB</b>
     </td>
     <td>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>
-      Infra
+      <b>Infra</b>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
