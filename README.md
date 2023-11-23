@@ -2,7 +2,7 @@
   <h3>포트폴리오</h3>
 
 ## 🛠 My Skill Set 🛠
-<table border=0>
+<table border=none>
   <tr>
     <td>
       <b>BE</b>
