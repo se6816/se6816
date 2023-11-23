@@ -21,6 +21,6 @@
 
 ## 🏆 Solved-Ac Tier 🏆
   <div class="solved-ac" align="center">
-    <a href="http://solved.ac/se6816"><img src="http://mazassumnida.wtf/api/generate_badge?boj=se6816" /></>
+    <a href="http://solved.ac/redped"><img src="http://mazassumnida.wtf/api/generate_badge?boj=redped" /></>
   </div>
 </div>
