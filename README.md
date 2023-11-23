@@ -1,8 +1,17 @@
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: none;
+  }
+</style>
+
 <div> 
   <h3>포트폴리오</h3>
 
 ## 🛠 My Skill Set 🛠
-<table style="border-collapse: collapse; width: 100%;" border="none">
+<table>
   <tr>
     <td>
       <b>BE</b>
