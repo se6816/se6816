@@ -1,6 +1,7 @@
 <div> 
   <h3>포트폴리오</h3>
   <h3>BE</h3>
+  <img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <h3>DB</h3>
   <h3>Infra</h3>
 
