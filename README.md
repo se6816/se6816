@@ -1,8 +1,7 @@
 
 
 <div> 
-  <h3>포트폴리오</h3>
-
+  
 ## 🛠 My Skill Set 🛠
 <table>
   <tr>
