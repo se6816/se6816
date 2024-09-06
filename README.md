@@ -1,7 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%21%20I%27m%20SeHyuk.&fontSize=90&fontAlignY=38&descAlignY=51&descAlign=62)
 <div> 
-  
+   <h3>포트폴리오</h3>
+    <a href="https://glamorous-radar-141.notion.site/Backend-Engineer-c6da1064117748fc89c88445c6ef1e75?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+ 
 ## 🛠 My Skill Set 🛠
 <table>
   <tr>
